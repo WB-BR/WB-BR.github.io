@@ -1,0 +1,16 @@
+@charset "utf-8";
+header {
+    font-size: xxx-large;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+p {
+    font-size: xx-large;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-align: left;
+}
+html {
+    background-color: #C9FCCB;
+}
+nav {
+}
