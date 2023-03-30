@@ -1,0 +1,13 @@
+@charset "utf-8";
+header {
+    text-align: center;
+    font-size: xx-large;
+    color: #00000;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+html {
+    background-color: #C9FCCB;
+}
+ul {
+    font-size: x-large;
+}
